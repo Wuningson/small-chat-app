@@ -1,0 +1,15 @@
+.container{
+    width: 40%;
+    background-color: burlywood;
+    margin: auto;
+    height: 500px;
+}
+
+#message{
+    height: 30px;
+    background-color: aquamarine;
+}
+
+button{
+    float: right;
+}
